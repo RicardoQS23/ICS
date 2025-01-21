@@ -1,0 +1,233 @@
+2024-12-05 16:00:03 - chargen - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-12-05 16:00:03 - chargen - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-12-05 16:00:03 - chargen - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-12-06 16:00:00 - chargen - INFO    - Full blacklist written: 0 scanners/attackers detected
+2024-12-06 16:00:00 - chargen - INFO    - Weekly blacklist written: 0 scanners/attackers detected
+2024-12-06 16:00:00 - chargen - INFO    - Daily blacklist written: 0 scanners/attackers detected
+2024-12-06 19:21:11 - chargen - INFO    - New chargen packet received - {"time": "2024-12-06 19:21:11.273287", "src_ip": "162.142.125.88", "src_port": 5850, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-07 08:32:15 - chargen - INFO    - New chargen packet received - {"time": "2024-12-07 08:32:15.195668", "src_ip": "206.168.34.163", "src_port": 47068, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-07 08:32:23 - chargen - INFO    - New chargen packet received - {"time": "2024-12-07 08:32:23.106392", "src_ip": "206.168.34.33", "src_port": 59923, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-07 09:24:55 - chargen - INFO    - New chargen packet received - {"time": "2024-12-07 09:24:55.925849", "src_ip": "64.62.156.108", "src_port": 23500, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-07 16:00:00 - chargen - INFO    - Full blacklist written: 4 scanners/attackers detected
+2024-12-07 16:00:00 - chargen - INFO    - Weekly blacklist written: 4 scanners/attackers detected
+2024-12-07 16:00:00 - chargen - INFO    - Daily blacklist written: 4 scanners/attackers detected
+2024-12-07 23:28:21 - chargen - INFO    - New chargen packet received - {"time": "2024-12-07 23:28:21.207457", "src_ip": "185.94.111.1", "src_port": 47980, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-08 01:19:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-08 01:19:25.482340", "src_ip": "146.88.241.204", "src_port": 44865, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-08 01:44:07 - chargen - INFO    - New chargen packet received - {"time": "2024-12-08 01:44:07.688986", "src_ip": "104.152.52.105", "src_port": 42205, "req_size": 12, "resp_size": 1024, "req_pkt": "bWFzc2Nhbi10ZXN0"}
+2024-12-08 05:10:59 - chargen - INFO    - New chargen packet received - {"time": "2024-12-08 05:10:59.456953", "src_ip": "65.49.1.111", "src_port": 51319, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-08 14:58:26 - chargen - INFO    - New chargen packet received - {"time": "2024-12-08 14:58:26.304331", "src_ip": "206.168.35.23", "src_port": 18350, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-08 14:58:31 - chargen - INFO    - New chargen packet received - {"time": "2024-12-08 14:58:31.682414", "src_ip": "206.168.34.203", "src_port": 43400, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-08 16:00:01 - chargen - INFO    - Full blacklist written: 10 scanners/attackers detected
+2024-12-08 16:00:01 - chargen - INFO    - Weekly blacklist written: 10 scanners/attackers detected
+2024-12-08 16:00:01 - chargen - INFO    - Daily blacklist written: 6 scanners/attackers detected
+2024-12-09 01:08:17 - chargen - INFO    - New chargen packet received - {"time": "2024-12-09 01:08:17.230876", "src_ip": "64.62.197.122", "src_port": 15753, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-09 04:30:37 - chargen - INFO    - New chargen packet received - {"time": "2024-12-09 04:30:37.686112", "src_ip": "206.168.35.100", "src_port": 39145, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-09 04:30:38 - chargen - INFO    - New chargen packet received - {"time": "2024-12-09 04:30:38.700481", "src_ip": "199.45.155.69", "src_port": 38710, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-09 15:22:15 - chargen - INFO    - New chargen packet received - {"time": "2024-12-09 15:22:15.117309", "src_ip": "52.73.169.169", "src_port": 50516, "req_size": 29, "resp_size": 1024, "req_pkt": "R0VUIC8gSFRUUC8xLjENCkhvc3Q6IHd3dw0KDQo="}
+2024-12-09 16:00:00 - chargen - INFO    - Full blacklist written: 14 scanners/attackers detected
+2024-12-09 16:00:00 - chargen - INFO    - Weekly blacklist written: 14 scanners/attackers detected
+2024-12-09 16:00:00 - chargen - INFO    - Daily blacklist written: 4 scanners/attackers detected
+2024-12-10 03:21:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-10 03:21:25.441986", "src_ip": "64.62.156.33", "src_port": 37259, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-10 07:35:55 - chargen - INFO    - New attack detected - {"time": "2024-12-10 07:35:55.452261", "src_ip": "185.94.111.1", "src_port": 49418, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-10 16:00:00 - chargen - INFO    - Full blacklist written: 15 scanners/attackers detected
+2024-12-10 16:00:00 - chargen - INFO    - Weekly blacklist written: 15 scanners/attackers detected
+2024-12-10 16:00:00 - chargen - INFO    - Daily blacklist written: 2 scanners/attackers detected
+2024-12-10 21:00:52 - chargen - INFO    - New chargen packet received - {"time": "2024-12-10 21:00:52.106006", "src_ip": "96.126.124.155", "src_port": 44471, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-10 23:45:02 - chargen - INFO    - New chargen packet received - {"time": "2024-12-10 23:45:02.537146", "src_ip": "205.210.31.212", "src_port": 18200, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-11 02:29:51 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 02:29:51.973220", "src_ip": "205.210.31.138", "src_port": 12238, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-11 03:17:57 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 03:17:57.105423", "src_ip": "206.168.35.140", "src_port": 20854, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-11 03:18:00 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 03:18:00.318035", "src_ip": "206.168.34.195", "src_port": 44690, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-11 06:00:13 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 06:00:13.653574", "src_ip": "65.49.1.59", "src_port": 28734, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-11 09:49:04 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 09:49:04.982638", "src_ip": "87.120.117.145", "src_port": 40407, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-11 13:36:07 - chargen - INFO    - New chargen packet received - {"time": "2024-12-11 13:36:07.204126", "src_ip": "205.210.31.28", "src_port": 19097, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-11 16:00:00 - chargen - INFO    - Full blacklist written: 23 scanners/attackers detected
+2024-12-11 16:00:00 - chargen - INFO    - Weekly blacklist written: 23 scanners/attackers detected
+2024-12-11 16:00:00 - chargen - INFO    - Daily blacklist written: 8 scanners/attackers detected
+2024-12-12 02:11:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 02:11:35.960348", "src_ip": "65.49.1.52", "src_port": 49854, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-12 02:37:49 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 02:37:49.713798", "src_ip": "205.210.31.133", "src_port": 22348, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-12 02:48:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 02:48:35.080455", "src_ip": "1.32.226.28", "src_port": 59841, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-12 02:48:35 - chargen - INFO    - Threshold reached for host 1.32.226.28 - will not respond to this host
+2024-12-12 02:48:35 - chargen - INFO    - Last packet - threshold reached - {"time": "2024-12-12 02:48:35.086478", "src_ip": "1.32.226.28", "src_port": 52136, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-12 02:50:26 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-12 07:21:01 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 07:21:01.758071", "src_ip": "206.168.35.112", "src_port": 15154, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-12 07:21:03 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 07:21:03.110496", "src_ip": "206.168.34.208", "src_port": 45074, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-12 07:55:05 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 07:55:05.421356", "src_ip": "146.88.241.124", "src_port": 40088, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-12 13:30:57 - chargen - INFO    - New chargen packet received - {"time": "2024-12-12 13:30:57.753528", "src_ip": "198.235.24.97", "src_port": 50659, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-12 15:54:06 - chargen - INFO    - New attack detected - {"time": "2024-12-12 15:54:06.363868", "src_ip": "185.94.111.1", "src_port": 49358, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-12 16:00:00 - chargen - INFO    - Full blacklist written: 29 scanners/attackers detected
+2024-12-12 16:00:00 - chargen - INFO    - Weekly blacklist written: 29 scanners/attackers detected
+2024-12-12 16:00:00 - chargen - INFO    - Daily blacklist written: 7 scanners/attackers detected
+2024-12-13 02:36:58 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 02:36:58.762205", "src_ip": "198.235.24.126", "src_port": 13645, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-13 06:11:28 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 06:11:28.832597", "src_ip": "65.49.1.88", "src_port": 57922, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-13 07:55:13 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 07:55:13.705211", "src_ip": "205.210.31.90", "src_port": 57782, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-13 09:38:47 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 09:38:47.448562", "src_ip": "104.152.52.117", "src_port": 42697, "req_size": 12, "resp_size": 1024, "req_pkt": "bWFzc2Nhbi10ZXN0"}
+2024-12-13 13:40:06 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 13:40:06.330447", "src_ip": "205.210.31.161", "src_port": 10577, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-13 16:00:00 - chargen - INFO    - Full blacklist written: 34 scanners/attackers detected
+2024-12-13 16:00:00 - chargen - INFO    - Weekly blacklist written: 34 scanners/attackers detected
+2024-12-13 16:00:00 - chargen - INFO    - Daily blacklist written: 5 scanners/attackers detected
+2024-12-13 17:53:22 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 17:53:22.395688", "src_ip": "199.45.154.190", "src_port": 21117, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-13 17:53:31 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 17:53:31.957332", "src_ip": "199.45.154.142", "src_port": 48403, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-13 18:51:13 - chargen - INFO    - New attack detected - {"time": "2024-12-13 18:51:13.413824", "src_ip": "87.120.117.145", "src_port": 40407, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-13 20:36:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-13 20:36:35.895408", "src_ip": "162.142.125.80", "src_port": 64422, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-14 02:40:17 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 02:40:17.488745", "src_ip": "147.185.132.61", "src_port": 18924, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-14 03:53:33 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 03:53:33.581258", "src_ip": "206.168.35.161", "src_port": 37307, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-14 03:53:38 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 03:53:38.631049", "src_ip": "206.168.34.219", "src_port": 45722, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-14 07:46:23 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 07:46:23.463387", "src_ip": "64.62.156.18", "src_port": 48434, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-14 13:37:27 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 13:37:27.946837", "src_ip": "205.210.31.210", "src_port": 47250, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-14 13:51:59 - chargen - INFO    - New attack detected - {"time": "2024-12-14 13:51:59.792864", "src_ip": "1.32.226.28", "src_port": 43915, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-14 13:51:59 - chargen - INFO    - Threshold reached for host 1.32.226.28 - will not respond to this host
+2024-12-14 13:51:59 - chargen - INFO    - Last packet - threshold reached - {"time": "2024-12-14 13:51:59.802214", "src_ip": "1.32.226.28", "src_port": 37061, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-14 13:53:52 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-14 16:00:00 - chargen - INFO    - Full blacklist written: 42 scanners/attackers detected
+2024-12-14 16:00:00 - chargen - INFO    - Weekly blacklist written: 38 scanners/attackers detected
+2024-12-14 16:00:00 - chargen - INFO    - Daily blacklist written: 9 scanners/attackers detected
+2024-12-14 20:14:28 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 20:14:28.822823", "src_ip": "152.32.225.11", "src_port": 13052, "req_size": 2, "resp_size": 1024, "req_pkt": "AAA="}
+2024-12-14 23:54:43 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 23:54:43.783978", "src_ip": "206.168.35.43", "src_port": 21355, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-14 23:54:46 - chargen - INFO    - New chargen packet received - {"time": "2024-12-14 23:54:46.225293", "src_ip": "206.168.34.200", "src_port": 37635, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-15 00:01:30 - chargen - INFO    - New attack detected - {"time": "2024-12-15 00:01:30.900122", "src_ip": "185.94.111.1", "src_port": 59290, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-15 02:30:07 - chargen - INFO    - New chargen packet received - {"time": "2024-12-15 02:30:07.259828", "src_ip": "198.235.24.73", "src_port": 53522, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-15 03:57:02 - chargen - INFO    - New chargen packet received - {"time": "2024-12-15 03:57:02.468098", "src_ip": "146.88.241.210", "src_port": 35030, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-15 07:51:38 - chargen - INFO    - New chargen packet received - {"time": "2024-12-15 07:51:38.154323", "src_ip": "64.62.156.34", "src_port": 51682, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-15 13:33:15 - chargen - INFO    - New chargen packet received - {"time": "2024-12-15 13:33:15.782618", "src_ip": "147.185.132.201", "src_port": 42262, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-15 16:00:00 - chargen - INFO    - Full blacklist written: 49 scanners/attackers detected
+2024-12-15 16:00:00 - chargen - INFO    - Weekly blacklist written: 40 scanners/attackers detected
+2024-12-15 16:00:00 - chargen - INFO    - Daily blacklist written: 8 scanners/attackers detected
+2024-12-15 21:58:12 - chargen - INFO    - New chargen packet received - {"time": "2024-12-15 21:58:12.677846", "src_ip": "104.167.223.138", "src_port": 59990, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-15 22:42:51 - chargen - INFO    - New attack detected - {"time": "2024-12-15 22:42:51.382918", "src_ip": "104.167.223.138", "src_port": 33004, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-16 02:32:34 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 02:32:34.130741", "src_ip": "198.235.24.145", "src_port": 46586, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-16 03:21:48 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 03:21:48.248190", "src_ip": "64.62.197.241", "src_port": 50204, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-16 12:19:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 12:19:25.380197", "src_ip": "162.142.125.219", "src_port": 44684, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-16 12:20:10 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 12:20:10.829656", "src_ip": "206.168.34.56", "src_port": 50345, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-16 12:28:16 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 12:28:16.103753", "src_ip": "206.168.35.63", "src_port": 12046, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-16 12:28:17 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 12:28:17.214892", "src_ip": "206.168.34.212", "src_port": 57018, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-16 13:38:55 - chargen - INFO    - New chargen packet received - {"time": "2024-12-16 13:38:55.665979", "src_ip": "198.235.24.13", "src_port": 35949, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-16 16:00:00 - chargen - INFO    - Full blacklist written: 57 scanners/attackers detected
+2024-12-16 16:00:00 - chargen - INFO    - Weekly blacklist written: 44 scanners/attackers detected
+2024-12-16 16:00:00 - chargen - INFO    - Daily blacklist written: 8 scanners/attackers detected
+2024-12-16 17:59:23 - chargen - INFO    - New attack detected - {"time": "2024-12-16 17:59:23.445828", "src_ip": "52.73.169.169", "src_port": 36732, "req_size": 29, "resp_size": 1024, "req_pkt": "R0VUIC8gSFRUUC8xLjENCkhvc3Q6IHd3dw0KDQo="}
+2024-12-17 02:38:25 - chargen - INFO    - New attack detected - {"time": "2024-12-17 02:38:25.372930", "src_ip": "205.210.31.28", "src_port": 35838, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-17 03:04:23 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 03:04:23.009111", "src_ip": "64.62.156.101", "src_port": 37504, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-17 05:05:09 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 05:05:09.169118", "src_ip": "1.32.226.43", "src_port": 43302, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-17 05:05:09 - chargen - INFO    - Threshold reached for host 1.32.226.43 - will not respond to this host
+2024-12-17 05:05:09 - chargen - INFO    - Last packet - threshold reached - {"time": "2024-12-17 05:05:09.174464", "src_ip": "1.32.226.43", "src_port": 50235, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-17 05:07:50 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-17 05:28:19 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 05:28:19.885363", "src_ip": "122.228.23.224", "src_port": 10562, "req_size": 12, "resp_size": 1024, "req_pkt": "ABMMAgAJxV8AAAAA"}
+2024-12-17 09:18:07 - chargen - INFO    - New attack detected - {"time": "2024-12-17 09:18:07.664043", "src_ip": "185.94.111.1", "src_port": 55946, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-17 10:20:38 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 10:20:38.368015", "src_ip": "162.142.125.216", "src_port": 36442, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-17 10:29:48 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 10:29:48.858860", "src_ip": "206.168.34.217", "src_port": 50223, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-17 12:09:26 - chargen - INFO    - New attack detected - {"time": "2024-12-17 12:09:26.329865", "src_ip": "206.168.34.203", "src_port": 42298, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-17 13:30:03 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 13:30:03.412536", "src_ip": "147.185.132.31", "src_port": 18696, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-17 13:59:01 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 13:59:01.339580", "src_ip": "162.142.125.203", "src_port": 41984, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-17 15:02:58 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 15:02:58.890230", "src_ip": "147.185.132.57", "src_port": 41915, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-17 16:00:00 - chargen - INFO    - Full blacklist written: 64 scanners/attackers detected
+2024-12-17 16:00:00 - chargen - INFO    - Weekly blacklist written: 52 scanners/attackers detected
+2024-12-17 16:00:00 - chargen - INFO    - Daily blacklist written: 11 scanners/attackers detected
+2024-12-17 16:00:00 - chargen - INFO    - Full blacklist written: 64 scanners/attackers detected
+2024-12-17 16:00:00 - chargen - INFO    - Weekly blacklist written: 52 scanners/attackers detected
+2024-12-17 16:00:00 - chargen - INFO    - Daily blacklist written: 11 scanners/attackers detected
+2024-12-17 19:40:26 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 19:40:26.962130", "src_ip": "172.105.15.102", "src_port": 44938, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-17 22:02:02 - chargen - INFO    - New attack detected - {"time": "2024-12-17 22:02:02.332650", "src_ip": "162.142.125.216", "src_port": 54120, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-17 22:09:53 - chargen - INFO    - New chargen packet received - {"time": "2024-12-17 22:09:53.505305", "src_ip": "206.168.34.220", "src_port": 57010, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-18 00:49:21 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 00:49:21.057094", "src_ip": "65.49.1.108", "src_port": 56194, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-18 02:35:55 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 02:35:55.235788", "src_ip": "198.235.24.34", "src_port": 62999, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-18 08:27:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 08:27:25.940664", "src_ip": "146.88.241.121", "src_port": 52060, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-18 13:42:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 13:42:35.825446", "src_ip": "198.235.24.22", "src_port": 39983, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-18 16:00:00 - chargen - INFO    - Full blacklist written: 70 scanners/attackers detected
+2024-12-18 16:00:00 - chargen - INFO    - Weekly blacklist written: 52 scanners/attackers detected
+2024-12-18 16:00:00 - chargen - INFO    - Daily blacklist written: 7 scanners/attackers detected
+2024-12-18 17:04:02 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 17:04:02.302660", "src_ip": "104.152.52.129", "src_port": 41397, "req_size": 12, "resp_size": 1024, "req_pkt": "bWFzc2Nhbi10ZXN0"}
+2024-12-18 21:51:34 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 21:51:34.247787", "src_ip": "206.168.35.97", "src_port": 65426, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-18 21:51:44 - chargen - INFO    - New chargen packet received - {"time": "2024-12-18 21:51:44.800223", "src_ip": "206.168.34.193", "src_port": 42811, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 02:36:07 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 02:36:07.222584", "src_ip": "205.210.31.58", "src_port": 26391, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-19 02:52:19 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 02:52:19.076414", "src_ip": "64.62.197.29", "src_port": 15078, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-19 03:19:52 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 03:19:52.419070", "src_ip": "162.142.125.209", "src_port": 35839, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 03:20:56 - chargen - INFO    - New attack detected - {"time": "2024-12-19 03:20:56.579623", "src_ip": "206.168.34.219", "src_port": 38969, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 03:52:08 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 03:52:08.887992", "src_ip": "206.168.35.162", "src_port": 2349, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 03:52:18 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 03:52:18.243646", "src_ip": "206.168.34.211", "src_port": 57569, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 06:31:02 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 06:31:02.907141", "src_ip": "162.142.125.38", "src_port": 50988, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 06:31:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 06:31:35.910412", "src_ip": "206.168.34.126", "src_port": 50701, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 11:09:30 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 11:09:30.869054", "src_ip": "128.232.21.75", "src_port": 57434, "req_size": 1, "resp_size": 1024, "req_pkt": "Lg=="}
+2024-12-19 12:06:53 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 12:06:53.071216", "src_ip": "206.168.34.166", "src_port": 2098, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 13:35:55 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 13:35:55.236113", "src_ip": "205.210.31.56", "src_port": 19923, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-19 16:00:00 - chargen - INFO    - Full blacklist written: 83 scanners/attackers detected
+2024-12-19 16:00:00 - chargen - INFO    - Weekly blacklist written: 59 scanners/attackers detected
+2024-12-19 16:00:00 - chargen - INFO    - Daily blacklist written: 14 scanners/attackers detected
+2024-12-19 18:34:44 - chargen - INFO    - New attack detected - {"time": "2024-12-19 18:34:44.782559", "src_ip": "185.94.111.1", "src_port": 55993, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-19 21:00:29 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 21:00:29.718334", "src_ip": "162.142.125.222", "src_port": 38485, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-19 21:01:17 - chargen - INFO    - New chargen packet received - {"time": "2024-12-19 21:01:17.919875", "src_ip": "206.168.34.63", "src_port": 38480, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 01:19:11 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 01:19:11.111351", "src_ip": "146.88.241.100", "src_port": 42749, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-20 02:36:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 02:36:35.696505", "src_ip": "198.235.24.203", "src_port": 53472, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-20 08:58:24 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 08:58:24.862629", "src_ip": "65.49.1.28", "src_port": 43865, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-20 09:19:26 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 09:19:26.395480", "src_ip": "198.235.24.254", "src_port": 36670, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-20 09:59:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 09:59:25.165269", "src_ip": "206.168.34.59", "src_port": 52557, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 10:02:21 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 10:02:21.714934", "src_ip": "206.168.34.36", "src_port": 34825, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 12:07:57 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 12:07:57.921552", "src_ip": "206.168.34.118", "src_port": 52998, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 13:32:46 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 13:32:46.998610", "src_ip": "205.210.31.75", "src_port": 34455, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-20 14:30:10 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 14:30:10.646667", "src_ip": "209.141.60.78", "src_port": 62230, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 14:32:39 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-20 14:37:46 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 14:37:46.747542", "src_ip": "206.168.35.58", "src_port": 5679, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 14:37:51 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 14:37:51.173586", "src_ip": "206.168.34.214", "src_port": 36992, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 14:56:21 - chargen - INFO    - New chargen packet received - {"time": "2024-12-20 14:56:21.260313", "src_ip": "199.45.154.113", "src_port": 49404, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-20 16:00:00 - chargen - INFO    - Full blacklist written: 96 scanners/attackers detected
+2024-12-20 16:00:00 - chargen - INFO    - Weekly blacklist written: 67 scanners/attackers detected
+2024-12-20 16:00:00 - chargen - INFO    - Daily blacklist written: 14 scanners/attackers detected
+2024-12-21 02:30:39 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 02:30:39.051079", "src_ip": "147.185.132.183", "src_port": 48893, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-21 07:49:09 - chargen - INFO    - New attack detected - {"time": "2024-12-21 07:49:09.616855", "src_ip": "162.142.125.219", "src_port": 43116, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-21 07:52:24 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 07:52:24.445440", "src_ip": "206.168.34.65", "src_port": 41440, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-21 08:25:11 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 08:25:11.173919", "src_ip": "64.62.197.46", "src_port": 11133, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-21 09:33:37 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 09:33:37.824391", "src_ip": "207.90.244.14", "src_port": 31743, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-21 13:32:40 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 13:32:40.222348", "src_ip": "205.210.31.211", "src_port": 40102, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-21 13:43:29 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 13:43:29.866925", "src_ip": "212.109.219.1", "src_port": 443, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-21 13:43:59 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-21 13:48:59 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-21 16:00:00 - chargen - INFO    - Full blacklist written: 101 scanners/attackers detected
+2024-12-21 16:00:00 - chargen - INFO    - Weekly blacklist written: 64 scanners/attackers detected
+2024-12-21 16:00:00 - chargen - INFO    - Daily blacklist written: 6 scanners/attackers detected
+2024-12-21 17:46:09 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 17:46:09.133020", "src_ip": "199.45.154.176", "src_port": 55688, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-21 17:46:20 - chargen - INFO    - New chargen packet received - {"time": "2024-12-21 17:46:20.885685", "src_ip": "199.45.154.132", "src_port": 44831, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 01:09:26 - chargen - INFO    - New attack detected - {"time": "2024-12-22 01:09:26.268767", "src_ip": "104.167.223.138", "src_port": 41243, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 01:26:22 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 01:26:22.048197", "src_ip": "65.49.1.93", "src_port": 52852, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-22 02:26:45 - chargen - INFO    - New attack detected - {"time": "2024-12-22 02:26:45.264854", "src_ip": "185.94.111.1", "src_port": 44710, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-22 02:33:12 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 02:33:12.207217", "src_ip": "205.210.31.205", "src_port": 53056, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-22 04:30:49 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 04:30:49.399074", "src_ip": "206.168.34.40", "src_port": 46112, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 13:36:37 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 13:36:37.797906", "src_ip": "198.235.24.144", "src_port": 35593, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-22 14:40:42 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 14:40:42.009160", "src_ip": "206.168.34.89", "src_port": 58210, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 14:41:25 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 14:41:25.285564", "src_ip": "162.142.125.113", "src_port": 53910, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 16:00:00 - chargen - INFO    - Full blacklist written: 109 scanners/attackers detected
+2024-12-22 16:00:00 - chargen - INFO    - Weekly blacklist written: 65 scanners/attackers detected
+2024-12-22 16:00:00 - chargen - INFO    - Daily blacklist written: 10 scanners/attackers detected
+2024-12-22 16:53:51 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 16:53:51.015489", "src_ip": "199.45.155.92", "src_port": 45470, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 20:35:29 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 20:35:29.271140", "src_ip": "207.90.244.18", "src_port": 31743, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-22 21:02:46 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 21:02:46.174626", "src_ip": "206.168.35.46", "src_port": 42559, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-22 21:02:47 - chargen - INFO    - New chargen packet received - {"time": "2024-12-22 21:02:47.454985", "src_ip": "199.45.155.97", "src_port": 41946, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 02:38:55 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 02:38:55.458342", "src_ip": "198.235.24.232", "src_port": 47944, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-23 03:30:52 - chargen - INFO    - New attack detected - {"time": "2024-12-23 03:30:52.972825", "src_ip": "162.142.125.219", "src_port": 34336, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 03:43:17 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 03:43:17.271650", "src_ip": "64.62.197.128", "src_port": 19680, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-23 07:29:35 - chargen - INFO    - New attack detected - {"time": "2024-12-23 07:29:35.722807", "src_ip": "206.168.34.89", "src_port": 32828, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 12:50:49 - chargen - INFO    - New attack detected - {"time": "2024-12-23 12:50:49.640290", "src_ip": "162.142.125.88", "src_port": 2642, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 13:34:52 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 13:34:52.846744", "src_ip": "198.235.24.3", "src_port": 54505, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-23 15:33:13 - chargen - INFO    - New attack detected - {"time": "2024-12-23 15:33:13.654261", "src_ip": "52.73.169.169", "src_port": 58267, "req_size": 29, "resp_size": 1024, "req_pkt": "R0VUIC8gSFRUUC8xLjENCkhvc3Q6IHd3dw0KDQo="}
+2024-12-23 16:00:00 - chargen - INFO    - Full blacklist written: 116 scanners/attackers detected
+2024-12-23 16:00:00 - chargen - INFO    - Weekly blacklist written: 67 scanners/attackers detected
+2024-12-23 16:00:00 - chargen - INFO    - Daily blacklist written: 11 scanners/attackers detected
+2024-12-23 18:33:47 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 18:33:47.732182", "src_ip": "206.168.35.21", "src_port": 26932, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 18:33:51 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 18:33:51.766408", "src_ip": "206.168.34.199", "src_port": 58412, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-23 20:24:08 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 20:24:08.030449", "src_ip": "147.185.132.147", "src_port": 57750, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-23 23:05:19 - chargen - INFO    - New chargen packet received - {"time": "2024-12-23 23:05:19.380873", "src_ip": "172.104.133.96", "src_port": 51583, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-24 01:00:51 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 01:00:51.032855", "src_ip": "64.62.156.15", "src_port": 35751, "req_size": 1, "resp_size": 1024, "req_pkt": "Cg=="}
+2024-12-24 01:43:11 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 01:43:11.282108", "src_ip": "104.152.52.200", "src_port": 44558, "req_size": 12, "resp_size": 1024, "req_pkt": "bWFzc2Nhbi10ZXN0"}
+2024-12-24 02:37:46 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 02:37:46.682808", "src_ip": "205.210.31.25", "src_port": 51449, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
+2024-12-24 02:47:28 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 02:47:28.065450", "src_ip": "206.212.246.58", "src_port": 80, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 02:47:58 - chargen - INFO    - Flushing information for 1 IP(s) to database...
+2024-12-24 02:48:02 - chargen - INFO    - Threshold reached for host 206.212.246.58 - will not respond to this host
+2024-12-24 02:48:02 - chargen - INFO    - Last packet - threshold reached - {"time": "2024-12-24 02:48:02.380073", "src_ip": "206.212.246.58", "src_port": 80, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 02:49:35 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 02:49:35.475742", "src_ip": "183.81.168.152", "src_port": 50028, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 02:50:15 - chargen - INFO    - Threshold reached for host 183.81.168.152 - will not respond to this host
+2024-12-24 02:50:15 - chargen - INFO    - Last packet - threshold reached - {"time": "2024-12-24 02:50:15.570185", "src_ip": "183.81.168.152", "src_port": 18884, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 02:52:58 - chargen - INFO    - Flushing information for 2 IP(s) to database...
+2024-12-24 09:59:28 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 09:59:28.448219", "src_ip": "80.76.51.89", "src_port": 40407, "req_size": 10, "resp_size": 1024, "req_pkt": "MTIzNDU2Nzg5MA=="}
+2024-12-24 10:08:53 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 10:08:53.295502", "src_ip": "146.88.241.101", "src_port": 54143, "req_size": 1, "resp_size": 1024, "req_pkt": "YQ=="}
+2024-12-24 10:10:05 - chargen - INFO    - New attack detected - {"time": "2024-12-24 10:10:05.763873", "src_ip": "185.94.111.1", "src_port": 57270, "req_size": 0, "resp_size": 1024, "req_pkt": ""}
+2024-12-24 10:47:32 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 10:47:32.067992", "src_ip": "206.168.35.159", "src_port": 34192, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 10:47:36 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 10:47:36.501191", "src_ip": "206.168.34.202", "src_port": 59246, "req_size": 1, "resp_size": 1024, "req_pkt": "AQ=="}
+2024-12-24 13:36:02 - chargen - INFO    - New chargen packet received - {"time": "2024-12-24 13:36:02.219130", "src_ip": "147.185.132.70", "src_port": 61786, "req_size": 40, "resp_size": 1024, "req_pkt": "cv4dEwAAAAAAAAACAAGGoAABl3wAAAAAAAAAAAAAAAAAAAAAAAAAAA=="}
